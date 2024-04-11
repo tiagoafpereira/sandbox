@@ -1,0 +1,54 @@
+:root {
+    --ind-full-black: #000000;
+    --ind-full-white: #ffffff;
+    --ind-dark: #141414;
+    --ind-dark-int: #213641;
+
+    --ind-main-blue: #003ae9;
+    --ind-main-blue-shading-50: #6585e67f;
+    --ind-main-blue-shading-25: #6585e63f;
+
+    --ind-accent: #00e979;
+    --ind-accent-shading-75: #00e979bf;
+    --ind-accent-shading-50: #80f4bc7f;
+    --ind-accent-shading-25: #bff9dd3f;
+
+    --ind-accent-2: #ebff00;
+    --ind-accent-2-shading-50: #f5ff807f;
+    --ind-accent-2-shading-25: #faffbf3f;
+
+    --ind-accent-3: #5ea03f;
+    --ind-accent-3-shading-50: #5ea03f7f;
+    --ind-accent-3-shading-25: #5ea03f3f;
+
+    --light-text-color: #c2cdd3;
+    --dark-text-color: #7D7F78;
+    --nav-main-bg-color: var(--ind-full-black);
+    --nav-buttons-color: #c2cdd3;
+    --nav-buttons-bg-color: var(--ind-dark-int);
+    --nav-buttons-bg-color-hover: var(--ind-main-blue);
+    --nav-buttons-color-hover: var(--nav-buttons-color);
+    --body-main-bg-color: var(--ind-dark);
+    --table-bg-color: var(--ind-dark);
+
+    --generate-key-button-color: var(--ind-dark);
+    --generate-key-button-bg-color: var(--ind-accent-shading-75);
+    --generate-key-button-bg-color-hover: var(--ind-accent);
+
+    --copy-key-button-color: var(--ind-dark);
+    --copy-key-button-bg-color: var(--ind-accent-shading-75);
+    --copy-key-button-bg-color-hover: var(--ind-accent);
+
+    --logout-button-color: var(--ind-dark);
+    --logout-button-bg-color: var(--ind-accent-shading-75);
+    --logout-button-bg-color-hover: var(--ind-accent);
+
+    --code-block-bg-color: #282c34;
+    --code-block-color: #abb2bf;
+
+    --gen-bg-color: #141414;
+    --gap: 20px;
+    --link-color: var(--ind-accent-shading-75);
+    --link-hover-color: var(--ind-accent);
+
+}
